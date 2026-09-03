@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Exit.unity
-    guid: 6bb87e980f615224582aef1da6dd2007
-  - enabled: 1
     path: Assets/Scenes/Clear.unity
     guid: f9574dc0c5b4b754b960f1624b22e0c0
   m_configObjects:
